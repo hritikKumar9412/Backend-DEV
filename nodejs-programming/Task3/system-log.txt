@@ -1,0 +1,1408 @@
+
+
+Time: 22/1/2026, 2:53:25 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.58 GB
+Used Memory: 7.15 GB
+
+
+
+Time: 22/1/2026, 2:53:30 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.49 GB
+Used Memory: 7.24 GB
+
+
+
+Time: 22/1/2026, 2:53:35 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.51 GB
+Used Memory: 7.22 GB
+
+
+
+Time: 22/1/2026, 2:53:40 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.47 GB
+Used Memory: 7.25 GB
+
+
+
+Time: 22/1/2026, 2:53:45 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.78 GB
+Used Memory: 6.95 GB
+
+
+
+Time: 22/1/2026, 2:53:50 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.70 GB
+Used Memory: 7.03 GB
+
+
+
+Time: 22/1/2026, 2:53:55 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.91 GB
+Used Memory: 6.82 GB
+
+
+
+Time: 22/1/2026, 2:54:00 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.77 GB
+Used Memory: 6.96 GB
+
+
+
+Time: 22/1/2026, 2:54:05 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.77 GB
+Used Memory: 6.96 GB
+
+
+
+Time: 22/1/2026, 2:54:10 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.77 GB
+Used Memory: 6.96 GB
+
+
+
+Time: 22/1/2026, 2:54:15 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.75 GB
+Used Memory: 6.98 GB
+
+
+
+Time: 22/1/2026, 2:54:20 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.73 GB
+Used Memory: 7.00 GB
+
+
+
+Time: 22/1/2026, 2:54:25 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.71 GB
+Used Memory: 7.02 GB
+
+
+
+Time: 22/1/2026, 2:54:30 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.65 GB
+Used Memory: 7.08 GB
+
+
+
+Time: 22/1/2026, 2:54:35 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.60 GB
+Used Memory: 7.13 GB
+
+
+
+Time: 22/1/2026, 2:54:40 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.57 GB
+Used Memory: 7.15 GB
+
+
+
+Time: 22/1/2026, 2:54:45 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 1.02 GB
+Used Memory: 6.71 GB
+
+
+
+Time: 22/1/2026, 2:54:50 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.94 GB
+Used Memory: 6.79 GB
+
+
+
+Time: 22/1/2026, 2:54:55 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.93 GB
+Used Memory: 6.80 GB
+
+
+
+Time: 22/1/2026, 2:55:00 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.86 GB
+Used Memory: 6.87 GB
+
+
+
+Time: 22/1/2026, 2:55:05 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.83 GB
+Used Memory: 6.90 GB
+
+
+
+Time: 22/1/2026, 2:55:10 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.81 GB
+Used Memory: 6.91 GB
+
+
+
+Time: 22/1/2026, 2:55:15 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.77 GB
+Used Memory: 6.95 GB
+
+
+
+Time: 22/1/2026, 2:55:20 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.75 GB
+Used Memory: 6.98 GB
+
+
+
+Time: 22/1/2026, 2:55:25 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.70 GB
+Used Memory: 7.03 GB
+
+
+
+Time: 22/1/2026, 2:55:30 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.66 GB
+Used Memory: 7.07 GB
+
+
+
+Time: 22/1/2026, 2:55:35 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.77 GB
+Used Memory: 6.96 GB
+
+
+
+Time: 22/1/2026, 2:55:40 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.74 GB
+Used Memory: 6.99 GB
+
+
+
+Time: 22/1/2026, 2:55:45 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.73 GB
+Used Memory: 7.00 GB
+
+
+
+Time: 22/1/2026, 2:55:50 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.66 GB
+Used Memory: 7.07 GB
+
+
+
+Time: 22/1/2026, 2:55:55 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.55 GB
+Used Memory: 7.18 GB
+
+
+
+Time: 22/1/2026, 2:56:00 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.51 GB
+Used Memory: 7.22 GB
+
+
+
+Time: 22/1/2026, 2:56:05 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.52 GB
+Used Memory: 7.21 GB
+
+
+
+Time: 22/1/2026, 2:56:10 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.49 GB
+Used Memory: 7.23 GB
+
+
+
+Time: 22/1/2026, 2:56:15 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.44 GB
+Used Memory: 7.29 GB
+
+
+
+Time: 22/1/2026, 2:56:20 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.57 GB
+Used Memory: 7.16 GB
+
+
+
+Time: 22/1/2026, 2:56:25 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.48 GB
+Used Memory: 7.25 GB
+
+
+
+Time: 22/1/2026, 2:56:30 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.50 GB
+Used Memory: 7.23 GB
+
+
+
+Time: 22/1/2026, 2:56:35 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.86 GB
+Used Memory: 6.87 GB
+
+
+
+Time: 22/1/2026, 2:56:40 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.83 GB
+Used Memory: 6.90 GB
+
+
+
+Time: 22/1/2026, 2:56:45 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.80 GB
+Used Memory: 6.93 GB
+
+
+
+Time: 22/1/2026, 2:56:50 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.45 GB
+Used Memory: 7.28 GB
+
+
+
+Time: 22/1/2026, 2:56:55 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.88 GB
+Used Memory: 6.85 GB
+
+
+
+Time: 22/1/2026, 2:57:00 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.82 GB
+Used Memory: 6.91 GB
+
+
+
+Time: 22/1/2026, 2:57:05 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.78 GB
+Used Memory: 6.95 GB
+
+
+
+Time: 22/1/2026, 2:57:10 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.74 GB
+Used Memory: 6.99 GB
+
+
+
+Time: 22/1/2026, 2:57:15 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.69 GB
+Used Memory: 7.04 GB
+
+
+
+Time: 22/1/2026, 2:57:20 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.67 GB
+Used Memory: 7.06 GB
+
+
+
+Time: 22/1/2026, 2:57:25 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.65 GB
+Used Memory: 7.08 GB
+
+
+
+Time: 22/1/2026, 2:57:30 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.58 GB
+Used Memory: 7.15 GB
+
+
+
+Time: 22/1/2026, 2:57:35 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.55 GB
+Used Memory: 7.18 GB
+
+
+
+Time: 22/1/2026, 2:57:40 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.43 GB
+Used Memory: 7.29 GB
+
+
+
+Time: 22/1/2026, 2:57:45 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.67 GB
+Used Memory: 7.06 GB
+
+
+
+Time: 22/1/2026, 2:57:50 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.65 GB
+Used Memory: 7.08 GB
+
+
+
+Time: 22/1/2026, 2:57:55 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.61 GB
+Used Memory: 7.12 GB
+
+
+
+Time: 22/1/2026, 2:58:00 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.56 GB
+Used Memory: 7.17 GB
+
+
+
+Time: 22/1/2026, 2:58:05 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.57 GB
+Used Memory: 7.16 GB
+
+
+
+Time: 22/1/2026, 2:58:10 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.55 GB
+Used Memory: 7.18 GB
+
+
+
+Time: 22/1/2026, 2:58:15 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.70 GB
+Used Memory: 7.03 GB
+
+
+
+Time: 22/1/2026, 2:58:20 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.75 GB
+Used Memory: 6.98 GB
+
+
+
+Time: 22/1/2026, 2:58:25 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.62 GB
+Used Memory: 7.11 GB
+
+
+
+Time: 22/1/2026, 2:58:30 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.62 GB
+Used Memory: 7.11 GB
+
+
+
+Time: 22/1/2026, 2:58:35 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.66 GB
+Used Memory: 7.07 GB
+
+
+
+Time: 22/1/2026, 2:58:40 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.64 GB
+Used Memory: 7.09 GB
+
+
+
+Time: 22/1/2026, 2:58:45 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.54 GB
+Used Memory: 7.19 GB
+
+
+
+Time: 22/1/2026, 2:58:50 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.54 GB
+Used Memory: 7.19 GB
+
+
+
+Time: 22/1/2026, 2:58:55 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.53 GB
+Used Memory: 7.20 GB
+
+
+
+Time: 22/1/2026, 2:59:00 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.49 GB
+Used Memory: 7.24 GB
+
+
+
+Time: 22/1/2026, 2:59:05 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.79 GB
+Used Memory: 6.94 GB
+
+
+
+Time: 22/1/2026, 2:59:10 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.74 GB
+Used Memory: 6.99 GB
+
+
+
+Time: 22/1/2026, 2:59:15 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.69 GB
+Used Memory: 7.04 GB
+
+
+
+Time: 22/1/2026, 2:59:20 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.67 GB
+Used Memory: 7.06 GB
+
+
+
+Time: 22/1/2026, 2:59:25 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.64 GB
+Used Memory: 7.09 GB
+
+
+
+Time: 22/1/2026, 2:59:30 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.59 GB
+Used Memory: 7.13 GB
+
+
+
+Time: 22/1/2026, 2:59:35 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.59 GB
+Used Memory: 7.14 GB
+
+
+
+Time: 22/1/2026, 2:59:40 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.56 GB
+Used Memory: 7.17 GB
+
+
+
+Time: 22/1/2026, 2:59:45 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 1.18 GB
+Used Memory: 6.54 GB
+
+
+
+Time: 22/1/2026, 2:59:50 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 1.16 GB
+Used Memory: 6.57 GB
+
+
+
+Time: 22/1/2026, 2:59:55 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 1.12 GB
+Used Memory: 6.61 GB
+
+
+
+Time: 22/1/2026, 3:00:00 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 1.01 GB
+Used Memory: 6.72 GB
+
+
+
+Time: 22/1/2026, 3:00:05 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.92 GB
+Used Memory: 6.81 GB
+
+
+
+Time: 22/1/2026, 3:00:10 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.89 GB
+Used Memory: 6.84 GB
+
+
+
+Time: 22/1/2026, 3:00:15 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.84 GB
+Used Memory: 6.89 GB
+
+
+
+Time: 22/1/2026, 3:00:20 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.84 GB
+Used Memory: 6.89 GB
+
+
+
+Time: 22/1/2026, 3:00:25 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.82 GB
+Used Memory: 6.90 GB
+
+
+
+Time: 22/1/2026, 3:00:30 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.79 GB
+Used Memory: 6.94 GB
+
+
+
+Time: 22/1/2026, 3:00:36 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.78 GB
+Used Memory: 6.95 GB
+
+
+
+Time: 22/1/2026, 3:00:41 pm
+Platform: win32
+OS Type: Windows_NT
+OS Release: 10.0.26200
+Architecture: x64
+
+CPU Model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU Cores: 12
+CPU Speed: 2688 MHz
+
+Total Memory: 7.73 GB
+Free Memory: 0.76 GB
+Used Memory: 6.97 GB
+
