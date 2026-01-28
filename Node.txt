@@ -1,0 +1,184 @@
+// What is Node js
+
+->> Node js is runtime environment for javascript
+--> Node we can run javascript outside to  the browser.
+-> Like Server,window,mac,linux etc
+->> JavaScript run inside the browser
+
+// Where we need JS outside browser
+
+--> Web Browser Run on client computer.
+--> So JavaScript do not handle things on server.
+--> So we can not connect javascript with database directly
+--> Can not handle File System etc
+--> So we have to run javascript on browser and Node help for this.
+
+there is many language like php , java , python but
+Why we need Node
+
+--> Unified Language
+--> High Performance
+--> Good for Real time Application
+--> Good for data Structure
+etc
+
+How to use it full stack and FE technology
+--> We make API in node js.
+--> Integrated APIs with FE technology.
+--> BE+FE=Full Stack
+
+
+History of Node js
+
+--> First release - May 27,2009
+--> written in js, c, c++
+
+
+
+
+REPL --> Read Evaluate Print Loop
+
+// What is Server Side and client side scripting ????
+ --> Server where the code is put
+ --> Client where the website access
+
+jo server par aa kar execute hoti hai vo server side scripting like php,java
+jo client par aa kar execute hoti hai vo client side scripting like javascript
+
+Node js javascrpt ko server side scripting language bana deta hai
+
+
+
+
+// What we Exactly Do with Node JS
+--> Node js is mostly used fopr API(Application Programming Interface) development
+---> API sends and receives data between any two language.
+--> After make API in node js , API can use in front technologies,Mobile technologies and any other platform
+
+
+
+// MAKE A TICKET BOOKING PLATFORM
+
+
+
+CORE MODULES AND GLOBAL OBJECT IN NODE
+
+module is a block of code to achieve a specific functionality
+
+TYPES OF MODULES :--
+1)- Core modules:- jo pehle se install hote hai
+2) Third party modules : jo externally install karte hai
+3) custom module : jo  khud se bana saktee hai
+
+
+Global Object is an object that is available in all modules by default.
+You do not need to import or require it to use it.
+Console is a global object;
+
+
+Diff b/w console.log in js and node js
+
+
+Feature  	BrowseJS     	   Node.js
+Runs in  	Browser	           Terminal
+Output
+shown in  DevTools Console	 Command Prompt / Terminal
+Used for	Frontend debugging	Backend debugging
+DOM access	✅ Yes	            ❌ No
+ behavior	Same syntax	       Same syntax
+
+
+CREATE SERVERS IN NODE JS
+
+// INTERVIEW QUESTION
+//
+// Ques ---> How to create server ?
+//     by using http.createserver
+//
+// Ques->  server kis core package ki help se create karte hai
+// -->  by usinng http
+//
+//
+// Ques -->how to end response .
+//     what is req and resp;
+
+//
+// Ques: can we create multiple servers?
+//     yes
+
+
+
+
+
+
+// EXTERNAL PACKAGE AND PACKAGE.json
+
+External package or external module or third party module
+We use npm i to restore  the node_modules if deleted
+
+how to install package json --> npm init
+why node_modules is not push in git --> bcz it is a heavy folder having a large space
+
+
+
+// NODEMON PACKAGE(Nodemon Package)
+
+with the help of nodemon package we will run the application or server in continuously
+
+ ques : what is nodemon package
+// ques: server ko regularly run karna chahte hai ya phir file ko baar baar start nahi karna chahte to konsa package use karenge
+Ques: Why we use '-' or hyphen in installing the npm packages??
+
+ is used to when u want to  install the packages at the global level and it also used to save the dependencies and dev-dependencies.
+ -g se package globally install hota hai
+
+
+
+Hyphen (-) in npm is used for passing command options (flags) and for clean, readable package & script names.
+
+
+
+
+// UNDERSTAND SERVER RESPONSE
+
+What is server response?
+--> when client request to the server then sever reponse , in response there is some data that is visible on browser called sever reponse.
+
+
+
+// Ques --> how we exit with any request ??
+//     resp.end();
+// Ques-> how we exit whole process??
+//      --> process.exit();
+
+
+
+// Make Sample API
+ --> Define Static API Data
+ --> Use this data in server response
+ --> Check API data
+ --> Test API with thunder client
+
+
+
+// Understand Client Request
+
+
+Ques- What is Client request?
+  -->
+
+
+ // Get Input from CMD in Node js
+
+
+ // LOAD HTML FILE
+ 200/201 shows good
+ 500 shows error
+
+
+
+
+
+
+
+
